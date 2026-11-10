@@ -18,6 +18,8 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionados por la tecnolog
 
 -[Problemática](#Problematica)
 
+-[¿Por que elegimos desarrollar un dron?](#¿por-que-elegimos-desarrollar-un-dron?]
+
 
 
 
@@ -47,6 +49,15 @@ La humedad, los cambios climáticos, la contaminación y el desgaste de los mate
 
 Pero cuando una estructura histórica se pierde, no desaparecen únicamente sus paredes: también se pierde una parte de la memoria, la identidad y las historias que representa. Porque detrás de cada monumento hay un legado que no puede reconstruirse una vez perdido.
 
+## ¿Por que elegimos desarrollar un dron?
+
+Al analizar las dificultades que presenta la inspección de estructuras históricas, consideramos que necesitábamos una herramienta capaz de desplazarse y capturar imágenes desde diferentes perspectivas, incluso en zonas elevadas o de difícil acceso. Por ello, elegimos desarrollar un dron: una plataforma aérea que permite acercarse a distintas superficies sin depender de andamios o de que una persona tenga que acceder físicamente a cada punto de inspección.
+
+A diferencia de una cámara fija o de una herramienta de inspección terrestre, un dron puede desplazarse alrededor de una estructura, modificar su posición y obtener imágenes desde distintos ángulos. Esto permite ampliar la cobertura visual y documentar áreas que podrían pasar desapercibidas durante una observación convencional.
+
+Además, al integrar una cámara con herramientas de visión artificial e inteligencia artificial, convertimos el dron en parte de un sistema de análisis, en lugar de utilizarlo únicamente para capturar fotografías.
+
+Elegimos un dron porque queríamos llevar la tecnología hasta aquellos lugares donde la observación humana puede resultar limitada, combinando movilidad aérea, procesamiento inteligente de imágenes y análisis digital en una sola solución.
 
 
 
