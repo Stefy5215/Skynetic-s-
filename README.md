@@ -15,6 +15,7 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionados por la tecnolog
 ## Tabla de contenidos 
 
 -[¿Que es Aerofix?](#¿Que-es-Aerofix)
+
 -[Problemática](#Problematica)
 
 
