@@ -20,6 +20,9 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionados por la tecnolog
 
 -[¿Por que elegimos desarrollar un dron?](#por-que-elegimos-desarrollar-un-dron)
 
+-[Objetivo general](#Objetivo-general)
+
+-[Objetivos especificos](#Objetivos-especificos)
 
 
 
@@ -60,6 +63,21 @@ Además, al integrar una cámara con herramientas de visión artificial e inteli
 Elegimos un dron porque queríamos llevar la tecnología hasta aquellos lugares donde la observación humana puede resultar limitada, combinando movilidad aérea, procesamiento inteligente de imágenes y análisis digital en una sola solución.
 
 
+## Objetivo general
+
+Contribuir a la conservación del patrimonio cultural y arquitectónico a nivel mundial mediante el uso de tecnologías robóticas e inteligentes que faciliten la identificación temprana de posibles daños en estructuras históricas.
+
+## Objetivos específicos
+
+1. Facilitar la inspección visual de estructuras históricas, incluyendo aquellas que presentan zonas elevadas o de difícil acceso.
+
+2. Favorecer la identificación oportuna de grietas y otros indicios de deterioro que puedan requerir una evaluación especializada.
+
+3. Proporcionar información organizada sobre los daños identificados para facilitar su seguimiento y priorización.
+
+4. Promover el uso de la robótica y la inteligencia artificial como herramientas de apoyo en la conservación del patrimonio cultural.
+
+5. Contribuir a la protección de la memoria histórica, arquitectónica y cultural de las comunidades para las futuras generaciones.
 
 
 
