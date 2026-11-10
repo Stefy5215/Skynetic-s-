@@ -15,6 +15,7 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionados por la tecnolog
 ## Tabla de contenidos 
 
 -[¿Que es Aerofix?](#¿Que-es-Aerofix)
+-[Problemática](#Problematica)
 
 
 
@@ -36,6 +37,14 @@ Aerofix también integra Aerofissure, una aplicación complementaria que funcion
 Además, Aerofissure incorpora un sistema de notificaciones por voz que comunica los resultados y las alertas generadas durante el análisis, facilitando el acceso a la información sin depender exclusivamente de la visualización de la pantalla.
 
 En conjunto, Aerofix está conformado por una plataforma aérea, un sistema electrónico y computacional para la captura y el procesamiento de imágenes, herramientas de inteligencia artificial y una aplicación de gestión de resultados. Estos elementos trabajan de manera integrada para desarrollar el proceso de inspección y presentar la información obtenida.
+
+## Problematica 
+
+En cada rincón del mundo existen estructuras que guardan parte de nuestra historia: monumentos, templos, sitios arqueológicos y edificaciones que han permanecido durante generaciones. Sin embargo, el paso del tiempo no siempre las trata con cuidado.
+
+La humedad, los cambios climáticos, la contaminación y el desgaste de los materiales provocan daños que pueden comenzar con pequeñas grietas y evolucionar hasta comprometer la conservación de una estructura. Muchas veces, estos deterioros pasan desapercibidos o se encuentran en zonas de difícil acceso, haciendo más compleja su inspección y seguimiento.
+
+Pero cuando una estructura histórica se pierde, no desaparecen únicamente sus paredes: también se pierde una parte de la memoria, la identidad y las historias que representa. Porque detrás de cada monumento hay un legado que no puede reconstruirse una vez perdido.
 
 
 
