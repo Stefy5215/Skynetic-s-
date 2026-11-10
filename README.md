@@ -18,7 +18,7 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionados por la tecnolog
 
 -[Problemática](#Problematica)
 
--[¿Por que elegimos desarrollar un dron?](#¿por-que-elegimos-desarrollar-un-dron?]
+-[¿Por que elegimos desarrollar un dron?](#¿por-que-elegimos-desarrollar-un-dron?)
 
 
 
