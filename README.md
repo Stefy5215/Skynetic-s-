@@ -25,7 +25,7 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionados por la tecnolog
 
 
 
-## ¿Qué es Aerofix?
+## ¿Que es Aerofix?
 
 Aerofix es un sistema robótico aéreo autónomo desarrollado por el equipo Skynetic's, que integra tecnología de vuelo, electrónica, visión artificial e inteligencia artificial para realizar inspecciones visuales de estructuras históricas. Está compuesto por una plataforma aérea equipada con sistemas de captura de imágenes, procesamiento computacional y componentes electrónicos que permiten ejecutar las diferentes funciones del sistema.
 
