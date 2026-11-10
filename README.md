@@ -22,7 +22,7 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionados por la tecnolog
 
 -[Objetivo general](#Objetivo-general)
 
--[Objetivos específicos](#Objetivos-especifcos)
+-[Objetivos especificos](#Objetivos-especifcos)
 
 
 
@@ -67,7 +67,7 @@ Elegimos un dron porque queríamos llevar la tecnología hasta aquellos lugares 
 
 Contribuir a la conservación del patrimonio cultural y arquitectónico a nivel mundial mediante el uso de tecnologías robóticas e inteligentes que faciliten la identificación temprana de posibles daños en estructuras históricas.
 
-## Objetivos específicos
+## Objetivos especificos
 
 1. Facilitar la inspección visual de estructuras históricas, incluyendo aquellas que presentan zonas elevadas o de difícil acceso.
 
