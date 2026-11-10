@@ -12,6 +12,9 @@ Aerofix es un proyecto desarrollado por Skynetic's, un equipo guatemalteco que p
 Somos Skynetic's, un equipo guatemalteco de jóvenes apasionados por la tecnología, la robótica y la innovación. Unimos nuestras habilidades en programación, electrónica y diseño para crear soluciones que generen un impacto positivo, siempre con el deseo de aprender, superar nuevos retos y demostrar el talento joven de Guatemala en la WRO 2026. 🇬🇹
 
 
+## Tabla de contenidos 
+
+
 
 
 
