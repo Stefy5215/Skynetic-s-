@@ -65,7 +65,8 @@ Elegimos un dron porque queríamos llevar la tecnología hasta aquellos lugares 
 
 ## Objetivo general
 
-Contribuir a la conservación del patrimonio cultural y arquitectónico a nivel mundial mediante el uso de tecnologías robóticas e inteligentes que faciliten la identificación temprana de posibles daños en estructuras históricas.
+
+Contribuir a la preservación del patrimonio histórico y cultural de la humanidad mediante la aplicación de tecnologías robóticas e inteligencia artificial que permitan identificar oportunamente posibles daños en estructuras históricas, facilitando su inspección, seguimiento y evaluación, para que las huellas de nuestro pasado no desaparezcan con el tiempo y las futuras generaciones puedan conocer, valorar y conservar aquello que cuenta la historia de quienes somos.
 
 ## Objetivos especificos
 
