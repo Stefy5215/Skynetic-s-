@@ -22,7 +22,7 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionados por la tecnolog
 
 -[Objetivo general](#Objetivo-general)
 
--[Objetivos especificos](#Objetivos-especificos)
+-[Objetivos específicos](#Objetivos-especifcos)
 
 
 
