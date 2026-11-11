@@ -3,6 +3,10 @@ Aerofix es un proyecto desarrollado por Skynetic's, un equipo guatemalteco que p
 
 <img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/d8e3e571-fc5a-4768-8930-938ec0731b0a" />
 
+
+<a href="https://www.instagram.com/Skynetics.team/" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30">
+</a>
 ## TEAM MEMBERS 🩷
 •Melanny Jimena Lisseth Muralles Estrada (Programadora principal)
 
@@ -11,7 +15,8 @@ Aerofix es un proyecto desarrollado por Skynetic's, un equipo guatemalteco que p
 •Stefany Andrea Tobar de Paz
  (electrónica)
 
-Somos Skynetic's, un equipo guatemalteco de jóvenes apasionadas por la tecnología, la robótica y la innovación. Unimos nuestras habilidades en programación, electrónica y diseño para crear soluciones que generen un impacto positivo, siempre con el deseo de aprender, superar nuevos retos y demostrar el talento joven de Guatemala en la WRO 2026. 🇬🇹
+Somos Skynetic's, un equipo de 3 chicas guatemaltecas de 16 años apasionadas por la tecnología, la robótica y la innovación. Unimos nuestras habilidades en programación, electrónica y diseño para crear soluciones que generen un impacto positivo, siempre con el deseo de aprender, superar nuevos retos y demostrar el talento joven de Guatemala en la WRO 2026. 🇬🇹
+
 
 
 ## Tabla de contenidos 
