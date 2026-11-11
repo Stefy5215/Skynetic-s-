@@ -150,7 +150,7 @@ La cámara conectada a la Raspberry Pi 5 se encarga de capturar las fotografías
 **Herramienta:** Raspberry Pi 5.
 
 
-<img src="imagenes/raspberry pi 5.jpg" width="250">
+<img src="imagenes/raspberry pi 5.jpeg" width="250">
 
 
 ### Motivo de la elección: 
