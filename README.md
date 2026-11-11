@@ -6,7 +6,7 @@ Aerofix es un proyecto desarrollado por Skynetic's, un equipo guatemalteco que p
 
 <a href="https://www.instagram.com/Skynetics.team/" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="22" align="center"> </a>
-   **Conoce más sobre Skynetic's**
+   Conoce más sobre Skynetic's 
 
 
 ## TEAM MEMBERS 🩷
