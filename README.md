@@ -9,7 +9,7 @@ Aerofix es un proyecto desarrollado por Skynetic's, un equipo guatemalteco que p
 •Kyrsten Arlette Nicole Márquez Escobar (diseñadora principal)
 
 •Stefany Andrea Tobar de Paz
- (electrónica principal)
+ (electrónica)
 
 Somos Skynetic's, un equipo guatemalteco de jóvenes apasionadas por la tecnología, la robótica y la innovación. Unimos nuestras habilidades en programación, electrónica y diseño para crear soluciones que generen un impacto positivo, siempre con el deseo de aprender, superar nuevos retos y demostrar el talento joven de Guatemala en la WRO 2026. 🇬🇹
 
