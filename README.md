@@ -131,7 +131,7 @@ La HuskyLens Smart Vision se encarga del reconocimiento visual de posibles griet
 
 
 
-<img src="imagenes/camara-raspberry.jpg" width="250">
+<img src="imagenes/Cámara de raspberry pi 5.webp" width="250">
 
 ### Motivo de la elección
 
