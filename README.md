@@ -28,7 +28,7 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionadas por la tecnolog
 
 -[Objetivos especificos](#Objetivos-especifcos)
 
--[¿cómo funciona Aerofix?](#como-funciona-aerofix)
+-[¿Cómo funciona Aerofix?](#como-funciona-aerofix)
 
 
 
