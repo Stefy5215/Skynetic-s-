@@ -103,6 +103,10 @@ Contribuir a la preservación del patrimonio histórico y cultural de la humanid
  ## Detección de grietas
 
 Herramienta: Cámara HuskyLens Smart Vision.
+
+
+
+
 <img src="imagenes/husky.webp" width="250">
 
 Motivo de la elección:
