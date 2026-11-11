@@ -111,15 +111,15 @@ Herramienta: Cámara HuskyLens Smart Vision.
 
 ### Motivo de la elección:
 
--Incorpora un sistema de reconocimiento visual inteligente.
+- Incorpora un sistema de reconocimiento visual inteligente.
 
--Permite entrenar la cámara mediante fotografías de referencia.
+- Permite entrenar la cámara mediante fotografías de referencia.
 
--Facilita la identificación de patrones visuales sin desarrollar todo el sistema de reconocimiento desde cero.
+- Facilita la identificación de patrones visuales sin desarrollar todo el sistema de reconocimiento desde cero.
 
--Puede integrarse con otros dispositivos electrónicos y computacionales.
+- Puede integrarse con otros dispositivos electrónicos y computacionales.
 
--Ofrece una solución compacta para incorporar visión artificial en Aerofix.
+- Ofrece una solución compacta para incorporar visión artificial en Aerofix.
 
 ### Función
 
