@@ -18,6 +18,8 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionados por la tecnolog
 
 -[¿Que es Aerofix?](#Que-es-Aerofix)
 
+-[vistas del robot](#Vistas-del-robot)
+
 -[Problemática](#Problematica)
 
 -[¿Por que elegimos desarrollar un dron?](#por-que-elegimos-desarrollar-un-dron)
@@ -25,6 +27,7 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionados por la tecnolog
 -[Objetivo general](#Objetivo-general)
 
 -[Objetivos especificos](#Objetivos-especifcos)
+
 
 
 
