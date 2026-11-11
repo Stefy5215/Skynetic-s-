@@ -100,17 +100,23 @@ Contribuir a la preservación del patrimonio histórico y cultural de la humanid
 
 5. Contribuir a la protección de la memoria histórica, arquitectónica y cultural de las comunidades para las futuras generaciones.
 
-   ## ¿Como funciona Aerofix?
+ ## Detección de grietas
 
-El funcionamiento de Aerofix se desarrolla mediante un proceso de inspección aérea en el que el dron recorre las estructuras mientras examina visualmente sus superficies en busca de posibles grietas. Durante el vuelo, cuando el sistema identifica una posible grieta, activa la captura de una fotografía para registrar el área detectada.
-
-La imagen obtenida se envía a la Raspberry Pi 5, donde pasa por un proceso de análisis mediante herramientas de visión artificial e inteligencia artificial. El modelo examina las características visuales de la imagen para identificar la grieta y determinar su nivel de gravedad, clasificándola como leve, crítica o urgente.
-
-Una vez realizado el análisis, los resultados se organizan para generar un informe de inspección con los hallazgos identificados y sus respectivas clasificaciones. Posteriormente, esta información se transmite a Aerofissure, donde el usuario puede consultar los resultados de manera organizada.
-
-A través de la aplicación, también es posible acceder a las recomendaciones correspondientes a cada nivel de gravedad, fundamentadas en documentación técnica utilizada como referencia en el proyecto. Además, el sistema de notificaciones por voz comunica las alertas generadas, facilitando que el usuario conozca los resultados sin depender exclusivamente de la pantalla.
-
-Todo este proceso está diseñado para desarrollarse de manera ágil y automatizada, reduciendo la intervención humana y permitiendo que la detección, el análisis y la comunicación de los hallazgos se integren en un mismo flujo tecnológico.
+Herramienta: Cámara HuskyLens Smart Vision.
 
 
+Elección:
 
+-Incorpora un sistema de reconocimiento visual inteligente.
+
+-Permite entrenar la cámara mediante fotografías de referencia.
+
+-Facilita la identificación de patrones visuales sin desarrollar todo el sistema de reconocimiento desde cero.
+
+-Puede integrarse con otros dispositivos electrónicos y computacionales.
+
+-Ofrece una solución compacta para incorporar visión artificial en Aerofix.
+
+Función
+
+La HuskyLens Smart Vision se encarga del reconocimiento visual de posibles grietas durante las inspecciones aéreas. Previamente, fue entrenada utilizando fotografías de grietas para que aprendiera los patrones que debía identificar. La búsqueda se inicia mediante un comando ejecutado desde la terminal de la Raspberry Pi 5, que activa el programa de comunicación con la cámara. Durante el vuelo, el sistema examina las superficies y, al identificar una posible grieta, permite iniciar el proceso de captura de una fotografía para registrar el hallazgo.
