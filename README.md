@@ -28,7 +28,7 @@ Somos Skynetic's, un equipo guatemalteco de jóvenes apasionadas por la tecnolog
 
 -[Objetivos especificos](#Objetivos-especifcos)
 
--[¿Cómo funciona Aerofix?](#como-funciona-aerofix)
+-[¿Cómo funciona Aerofix?](#Como-funciona-Aerofix)
 
 
 
@@ -100,7 +100,7 @@ Contribuir a la preservación del patrimonio histórico y cultural de la humanid
 
 5. Contribuir a la protección de la memoria histórica, arquitectónica y cultural de las comunidades para las futuras generaciones.
 
-   ## ¿Cómo funciona Aerofix?
+   ## ¿Como funciona Aerofix?
 
 El funcionamiento de Aerofix se desarrolla mediante un proceso de inspección aérea en el que el dron recorre las estructuras mientras examina visualmente sus superficies en busca de posibles grietas. Durante el vuelo, cuando el sistema identifica una posible grieta, activa la captura de una fotografía para registrar el área detectada.
 
