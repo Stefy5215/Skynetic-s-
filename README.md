@@ -1,6 +1,8 @@
 # Skynetic's
 Aerofix es un proyecto desarrollado por Skynetic's, un equipo guatemalteco que participa en la WRO 2026 rumbo a Puerto Rico. 🇬🇹
 
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/d8e3e571-fc5a-4768-8930-938ec0731b0a" />
+
 ## TEAM MEMBERS 🩷
 •Melanny Jimena Lisseth Muralles Estrada (Programadora principal)
 
