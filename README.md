@@ -100,7 +100,10 @@ Contribuir a la preservación del patrimonio histórico y cultural de la humanid
 
 5. Contribuir a la protección de la memoria histórica, arquitectónica y cultural de las comunidades para las futuras generaciones.
 
+## ¿Cómo funciona Aerofix?
+
  ## 01. Detección de grietas
+
 
 Herramienta: Cámara HuskyLens Smart Vision.
 
@@ -128,6 +131,19 @@ La HuskyLens Smart Vision se encarga del reconocimiento visual de posibles griet
 ## 02. Captura de imágenes
 
 **Herramienta:** Cámara Raspberry Pi 5 de 8 MP.
+
+
+## 04. Aerofissure – Aplicación de gestión y visualización
+
+Aerofissure es una aplicación complementaria desarrollada por el equipo Skynetic's para visualizar, organizar y consultar los resultados obtenidos durante las inspecciones realizadas por Aerofix.
+
+Su desarrollo busca transformar los datos generados por el sistema de detección en información clara, accesible y útil para el usuario. Una vez que la Raspberry Pi 5 procesa las imágenes y genera el informe de inspección, los resultados se transmiten a la aplicación para que puedan consultarse de manera organizada.
+
+La interfaz permite visualizar los hallazgos identificados y conocer su nivel de gravedad, clasificado en tres categorías: **leve, crítica y urgente**. Cada categoría cuenta con un apartado de recomendaciones fundamentadas en documentación técnica y evaluaciones estadounidenses utilizadas como referencia durante el desarrollo del proyecto.
+
+Además, Aerofissure incorpora un sistema de notificaciones por voz que comunica las alertas generadas, permitiendo que el usuario reciba información sobre los resultados de la inspección sin depender exclusivamente de la pantalla.
+
+La aplicación está diseñada para facilitar la interpretación de los resultados y apoyar el seguimiento de las condiciones detectadas en las estructuras inspeccionadas. De esta manera, Aerofissure complementa el trabajo de Aerofix al convertir los resultados del análisis en información organizada para su consulta.
 
 
 
