@@ -46,21 +46,19 @@ Además, Aerofissure incorpora un sistema de notificaciones por voz que comunica
 
 En conjunto, Aerofix está conformado por una plataforma aérea, un sistema electrónico y computacional para la captura y el procesamiento de imágenes, herramientas de inteligencia artificial y una aplicación de gestión de resultados. Estos elementos trabajan de manera integrada para desarrollar el proceso de inspección y presentar la información obtenida.
 
-
-
-|## 📸 VISTAS DEL ROBOT
+## 📸 VISTAS DEL ROBOT
 
 | VISTA FRONTAL | VISTA TRASERA |
 |:---:|:---:|
-| ![Frente](frente.jpg.jpeg) | ![Atrás](atras.jpg.jpeg) |
+| ![Frente](frente.jpg.jpeg) | ![Atrás](Atrás.jpg.jpeg) |
 
 | LADO IZQUIERDO | LADO DERECHO |
 |:---:|:---:|
-| ![Izquierda](izquierda.jpg.jpeg) | ![Derecha](derecha.jpg.jpeg) |
+| ![Izquierda](Izquierda.jpg.jpeg) | ![Derecha](Derecha.jpg.jpeg) |
 
-| VISTA SUPERIOR |
-|:---:|
-| ![Vista de arriba](arriba.jpg.jpeg) |
+| VISTA SUPERIOR | VISTA INFERIOR |
+|:---:|:---:|
+| ![Arriba](Arriba.jpg.jpeg) | ![Abajo](Abajo.jpg.jpeg) |
 
 ## Problematica 
 
