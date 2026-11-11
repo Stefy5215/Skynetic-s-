@@ -191,3 +191,16 @@ Además, Aerofissure incorpora un sistema de notificaciones por voz que comunica
 
 La aplicación está diseñada para facilitar la interpretación de los resultados y apoyar el seguimiento de las condiciones detectadas en las estructuras inspeccionadas. De esta manera, Aerofissure complementa el trabajo de Aerofix al convertir los resultados del análisis en información organizada para su consulta.
 
+
+<table>
+  <tr>
+    <td><img src="imagenes/principal.jpeg" width="250"></td>
+    <td><img src="imagenes/gravedad1.jpeg" width="250"></td>
+    <td><img src="imagenes/gravedad.jpeg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="imagenes/reportes.jpeg" width="250"></td>
+    <td><img src="imagenes/recomendaciones.jpeg" width="250"></td>
+    <td></td>
+  </tr>
+</table>
