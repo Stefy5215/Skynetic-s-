@@ -100,7 +100,7 @@ Contribuir a la preservación del patrimonio histórico y cultural de la humanid
 
 5. Contribuir a la protección de la memoria histórica, arquitectónica y cultural de las comunidades para las futuras generaciones.
 
-## ¿Cómo funciona Aerofix?
+## ¿Como funciona Aerofix?
 
  ## 01. Detección de grietas
 
