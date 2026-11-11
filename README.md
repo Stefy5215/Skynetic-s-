@@ -146,3 +146,20 @@ La HuskyLens Smart Vision se encarga del reconocimiento visual de posibles griet
 La cámara conectada a la Raspberry Pi 5 se encarga de capturar las fotografías de las áreas donde se identifican posibles grietas. Cuando la HuskyLens reconoce un patrón aprendido y comunica la detección al sistema, la Raspberry Pi ejecuta la instrucción de captura. La imagen obtenida se almacena para continuar con el procesamiento, análisis y clasificación del hallazgo, permitiendo conservar un registro visual de cada posible daño identificado durante la inspección.
 
 
+## 03. Procesamiento y clasificación de imágenes
+**Herramienta:** Raspberry Pi 5.
+
+
+<img src="imagenes/raspberry-pi-5.jpg" width="250">
+
+
+### Motivo de la elección: 
+- Capacidad de procesamiento para ejecutar programas de análisis de imágenes.
+- Compatibilidad con herramientas de programación y visión artificial.
+- Permite comunicarse con otros componentes del sistema.
+- Ofrece posibilidades de integración con aplicaciones externas.
+- Permite centralizar el procesamiento y la generación de informes.
+  
+### Función
+La Raspberry Pi 5 recibe las imágenes capturadas por el sistema y ejecuta el proceso de análisis correspondiente. A partir de los resultados obtenidos, organiza los hallazgos y genera un informe en el que las grietas identificadas se clasifican en tres niveles de gravedad: leve, crítica y urgente. Esta clasificación permite organizar los resultados de la inspección y facilita su posterior consulta en Aerofissure.
+
