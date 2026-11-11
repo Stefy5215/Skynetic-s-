@@ -5,9 +5,9 @@ Aerofix es un proyecto desarrollado por Skynetic's, un equipo guatemalteco que p
 
 
 <a href="https://www.instagram.com/Skynetics.team/" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="22" align="center">
+  Conoce más sobre Skynetic's
 </a>
-
 
 ## TEAM MEMBERS 🩷
 •Melanny Jimena Lisseth Muralles Estrada (Programadora principal)
