@@ -109,7 +109,7 @@ Herramienta: Cámara HuskyLens Smart Vision.
 
 <img src="imagenes/husky.webp" width="250">
 
-## Motivo de la elección:
+### Motivo de la elección:
 
 -Incorpora un sistema de reconocimiento visual inteligente.
 
@@ -121,7 +121,7 @@ Herramienta: Cámara HuskyLens Smart Vision.
 
 -Ofrece una solución compacta para incorporar visión artificial en Aerofix.
 
-## Función
+### Función
 
 La HuskyLens Smart Vision se encarga del reconocimiento visual de posibles grietas durante las inspecciones aéreas. Previamente, fue entrenada utilizando fotografías de grietas para que aprendiera los patrones que debía identificar. La búsqueda se inicia mediante un comando ejecutado desde la terminal de la Raspberry Pi 5, que activa el programa de comunicación con la cámara. Durante el vuelo, el sistema examina las superficies y, al identificar una posible grieta, permite iniciar el proceso de captura de una fotografía para registrar el hallazgo.
 
@@ -131,7 +131,7 @@ La HuskyLens Smart Vision se encarga del reconocimiento visual de posibles griet
 
 
 
-<img src="imagenes/Cámara de raspberry pi 5.webp" width="250">
+<img src="imagenes/Camara de raspberry pi 5.webp" width="250">
 
 ### Motivo de la elección
 
