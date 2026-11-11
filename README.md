@@ -50,15 +50,15 @@ En conjunto, Aerofix está conformado por una plataforma aérea, un sistema elec
 
 | VISTA FRONTAL | VISTA TRASERA |
 |:---:|:---:|
-| ![Frente](imagenes/frente.jpg) | ![Atrás](imagenes/atras.jpg) |
+| ![Frente](frente.jpg) | ![Atrás](atras.jpg) |
 
 | LADO IZQUIERDO | LADO DERECHO |
 |:---:|:---:|
-| ![Izquierda](imagenes/izquierda.jpg) | ![Derecha](imagenes/derecha.jpg) |
+| ![Izquierda](izquierda.jpg) | ![Derecha](derecha.jpg) |
 
 | VISTA SUPERIOR |
 |:---:|
-| ![Vista de arriba](imagenes/arriba.jpg) |
+| ![Vista de arriba](arriba.jpg) |
 
 ## Problematica 
 
