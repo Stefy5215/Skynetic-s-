@@ -100,7 +100,7 @@ Contribuir a la preservación del patrimonio histórico y cultural de la humanid
 
 5. Contribuir a la protección de la memoria histórica, arquitectónica y cultural de las comunidades para las futuras generaciones.
 
- ## Detección de grietas
+ ## 01. Detección de grietas
 
 Herramienta: Cámara HuskyLens Smart Vision.
 
@@ -109,7 +109,7 @@ Herramienta: Cámara HuskyLens Smart Vision.
 
 <img src="imagenes/husky.webp" width="250">
 
-Motivo de la elección:
+## Motivo de la elección:
 
 -Incorpora un sistema de reconocimiento visual inteligente.
 
@@ -121,6 +121,28 @@ Motivo de la elección:
 
 -Ofrece una solución compacta para incorporar visión artificial en Aerofix.
 
-Función
+## Función
 
 La HuskyLens Smart Vision se encarga del reconocimiento visual de posibles grietas durante las inspecciones aéreas. Previamente, fue entrenada utilizando fotografías de grietas para que aprendiera los patrones que debía identificar. La búsqueda se inicia mediante un comando ejecutado desde la terminal de la Raspberry Pi 5, que activa el programa de comunicación con la cámara. Durante el vuelo, el sistema examina las superficies y, al identificar una posible grieta, permite iniciar el proceso de captura de una fotografía para registrar el hallazgo.
+
+## 02. Captura de imágenes
+
+**Herramienta:** Cámara Raspberry Pi 5 de 8 MP.
+
+
+
+<img src="imagenes/camara-raspberry.jpg" width="250">
+
+### Motivo de la elección
+
+- Compatible con Raspberry Pi 5.
+- Permite capturar fotografías digitales para el análisis de las superficies.
+- Su tamaño compacto facilita la integración en la estructura del dron.
+- Ofrece una solución adecuada para documentar visualmente los hallazgos.
+- Permite integrar la captura fotográfica directamente con el sistema de control.
+
+### Función
+
+La cámara conectada a la Raspberry Pi 5 se encarga de capturar las fotografías de las áreas donde se identifican posibles grietas. Cuando la HuskyLens reconoce un patrón aprendido y comunica la detección al sistema, la Raspberry Pi ejecuta la instrucción de captura. La imagen obtenida se almacena para continuar con el procesamiento, análisis y clasificación del hallazgo, permitiendo conservar un registro visual de cada posible daño identificado durante la inspección.
+
+
